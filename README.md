@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <br/>
 
 ### About Me 🚀
-💻 I’m a Full stack developer with a bachelors degree in information systems. </br>
-👨🏼‍💻 I'm also a technical instructor and advisor who loves providing mentorship. </br>
-💬 Feel more than welcome to concact me if you need any help or want to discuss any software development topic! </br>
+💻 I’m a Full-stack developer with a bachelor's degree in information systems. </br> </br>
+👨🏼‍💻 I'm also a technical instructor and advisor who loves providing mentorship. </br></br>
+💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
-  I truly believe that technology and software development has the power to change people's lives for the better. What fuels me is to build applications and systems that impact positively the world and the society.
+ <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
+  
+  What fuels me is to build applications and systems that impact positively the world and society.</b></i>
   
   
-</br>
-<img src="https://media3.giphy.com/media/VDB85YZsrqMXx3c7DE/giphy.gif?cid=ecf05e47tpzbw83crrlw6g0nf7i61hg84iz3e6jyj4edyd15&rid=giphy.gif&ct=g" alt="Coder GIF" width="200"/>
 
 <br/>
 <hr />
