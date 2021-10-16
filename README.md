@@ -1,4 +1,4 @@
-### Hi there! I'm Murilo, welcome to my GitHub.
+### Hi there! I'm Murilo, welcome to my GitHub. 🌱
 
 <!--
 **MuriloMarquesSantos/MuriloMarquesSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+<br/>
+
 ### About Me 🚀
 💻 I’m a Full stack developer with a bachelors degree in information systems. </br>
-🚀 I'm also a technical instructor and advisor who loves providing mentorship </br>
+👨🏼‍💻 I'm also a technical instructor and advisor who loves providing mentorship. </br>
