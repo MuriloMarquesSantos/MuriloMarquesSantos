@@ -17,9 +17,7 @@
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
  <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
-  
-  What fuels me is to build applications and systems that impact positively the world and society.</b></i>
-  
+    
 <br/>
 <hr />
 
